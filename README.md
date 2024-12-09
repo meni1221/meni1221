@@ -25,8 +25,8 @@
 <img style="padding:5px;" align="center" alt="mongo" width="40px" src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png"/>
 <img style="padding:5px;" align="center" alt="next" width="40px" src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-11yvtwzn.png"/>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=meni1221&card_width=500)](https://git.io/streak-stats)<br />
 
-[![GitHub Streak](https://github.com/meni1221_width=500)](https://git.io/streak-stats)<br />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meni1221&show_icons=true&locale=en&layout=compact" alt="omri" /></p>
 
