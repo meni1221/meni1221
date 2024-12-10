@@ -5,8 +5,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=+Hi+there%2C+Nice+to+see+you+%F0%9F%91%8B+" alt="Typing SVG" /></a>
 <br />
 
-<a href="https://www.buymeacoffee.com/omri93rajuan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
 ## ⚡ About Me
 
  I'm Meni Levi, As a Full Stack developer with a relentless passion for the craft, I bring a hunger for excellence and a commitment to delivering high-quality solutions to every project I work on.
